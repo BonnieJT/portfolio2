@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,700&display=swap);
 
 /*
 	Story by HTML5 UP
@@ -290,7 +291,7 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
-
+	
 	@media screen and (max-width: 736px) {
 
 		p.major {
